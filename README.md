@@ -11,7 +11,7 @@ Currently, the company has three options: a flat price for a single one-way trip
 - Jupyter Notebook
 - Google BigQuery
 
-## Insights
+### Insights
 
 The detailed analysis supporting these recommendations follows. From the available dataset, it is clear that ridership has declined in the last several months.  
 
